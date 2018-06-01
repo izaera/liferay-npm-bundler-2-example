@@ -1,0 +1,5 @@
+Bundle-Name: npm-angular5-provider
+Bundle-SymbolicName: npm.angular5.provider
+Bundle-Version: 1.0.0
+Web-ContextPath: /npm-angular5-provider
+
