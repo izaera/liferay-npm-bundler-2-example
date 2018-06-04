@@ -15,7 +15,7 @@ import org.osgi.service.component.annotations.Component;
 	immediate = true,
 	property = {
 		"com.liferay.portlet.display-category=category.sample",
-		"com.liferay.portlet.header-portal-css=/o/npm-angular5-provider/styles.css",
+		"com.liferay.portlet.header-portlet-css=/css/indigo-pink.css",
 		"com.liferay.portlet.instanceable=true",
 		"javax.portlet.display-name=npm-angular5-portlet-say-hello Portlet",
 		"javax.portlet.init-param.template-path=/",
